@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on lab in Gen AI
 - 📫 How to reach me (+84)912 660 246
-- 😄 Pronouns: ...
+- 😄 About:https://sites.google.com/ictu.edu.vn/nguyenvanviet
 - ⚡ Fun fact: ...
 
 <!---
